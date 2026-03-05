@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "license": "0BSD",
   "main": "index.js",
   "scripts": {
@@ -19,3 +20,14 @@
   },
   "private": true
 }
+=======
+  "name": "mobile",
+  "version": "1.0.0",
+  "main": "App.js",
+  "dependencies": {
+    "react": "18.2.0",
+    "react-native": "0.72.6",
+    "react-native-webview": "13.6.4"
+  }
+}
+>>>>>>> 7571d3ffff0e0eb0a4b2372a4d2dd667a85e1c79
